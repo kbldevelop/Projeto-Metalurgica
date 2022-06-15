@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+div#contato {
+    padding: 20px;
+    background-color: white;
+    color: #08664F;
+}
+
+div#contato p {
+    text-align: justify;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+article#social {
+    text-align: center;
+}
